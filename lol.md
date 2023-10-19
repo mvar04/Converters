@@ -1,1 +1,1 @@
-<kbd>Ctrl</kbd>+<kbd>Shift</kbd>
+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd>
