@@ -1,0 +1,1 @@
+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>
